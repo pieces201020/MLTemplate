@@ -7,3 +7,13 @@
 # check linearity assumption
 
 # transform variables where needed
+
+# split into train and test
+
+# fit the model
+
+# check remaining assumptions
+
+# evaluate prediction accuracy
+
+# save your results to csv
